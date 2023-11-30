@@ -13,6 +13,6 @@ int main()
     cout<<"Enter the value of b: ";
     cin>>b;
     cout<<"The sum of a and b is: "<<sum(a,b);
-
+    return 0;
 
 }
