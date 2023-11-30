@@ -1,23 +1,18 @@
 #include<iostream>
 using namespace std;
-int sum()
+int sum(int a,int b)
 {
-
+    return a+b;
 }
 int main()
 {
-    int i,r,c;
+    int a,b;
     cout<<"GUNJAN"<<endl;
-    cout<<"Enter the value of r: ";
-    cin>>r;
-    for(i=1;i<=r;i++)
-    {
-        for(c=1;c<i+1;c++)
-        {
-            cout<<c<<" ";
-        } 
-        cout<<endl;  
-    }
+    cout<<"Enter the value of a: ";
+    cin>>a;
+    cout<<"Enter the value of b: ";
+    cin>>b;
+    cout<<"The sum of a and b is: "<<sum(a,b);
 
 
 }
