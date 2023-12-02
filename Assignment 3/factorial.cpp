@@ -16,4 +16,5 @@ int main()
         cout<<i<<" * ";
     }
     cout<<" = "<<fact;
+    return 0;
 }
