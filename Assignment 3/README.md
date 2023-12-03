@@ -1,2 +1,1 @@
-![Screenshot](1.PNG)
-![Screenshot](mintty.2023-12-03_01-06-22.png)
+![screenshot](chrome://favicon2/?size=24&scaleFactor=1x&showFallbackMonogram=&pageUrl=https%3A%2F%2Fwww.youtube.com%2F)
