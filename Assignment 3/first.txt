@@ -1,0 +1,8 @@
+To clone a repository
+touch <file name with extension> 
+To add
+git add <file name with extension> 
+To commit
+git commit -u "message"
+to push
+git push -u origin <branch name>  
